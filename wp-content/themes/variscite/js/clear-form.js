@@ -10,6 +10,8 @@ jQuery(document).ready(function() {
         document.querySelector("#quoteFormWidget #note"),
     ];
 
+    alert("greg");
+
     setTimeout(function() {
         form_elements.forEach(element => {
             if (element.value !== "" || element.value) {
