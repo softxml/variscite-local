@@ -1,0 +1,10 @@
+wp-admin/vari-wp-errors*.log
+wp-content/uploads/*.zip
+sf-call-debug.log
+sf-generate-token-debug.log
+
+*.zip
+*.tar
+*.gz
+*.7z
+*.log
