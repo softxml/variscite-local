@@ -1,6 +1,0 @@
-[04-Jun-2024 15:02:23 UTC] objectcache.critical: Failed to initialize object cache: PhpRedis was not compiled with Zstandard compression support, see For more information about enabling compressions see: https://objectcache.pro/docs/data-encoding/
-[04-Jun-2024 15:02:23 UTC] objectcache.warning: Failing over to in-memory object cache
-[04-Jun-2024 15:02:47 UTC] objectcache.critical: Failed to initialize object cache: PhpRedis was not compiled with Zstandard compression support, see For more information about enabling compressions see: https://objectcache.pro/docs/data-encoding/
-[04-Jun-2024 15:02:47 UTC] objectcache.warning: Failing over to in-memory object cache
-[04-Jun-2024 15:02:53 UTC] objectcache.critical: Failed to initialize object cache: PhpRedis was not compiled with Zstandard compression support, see For more information about enabling compressions see: https://objectcache.pro/docs/data-encoding/
-[04-Jun-2024 15:02:53 UTC] objectcache.warning: Failing over to in-memory object cache
