@@ -1,0 +1,77 @@
+[05-Jun-2024 07:38:37 UTC] objectcache.critical: Failed to initialize object cache: PhpRedis was not compiled with Zstandard compression support, see For more information about enabling compressions see: https://objectcache.pro/docs/data-encoding/
+[05-Jun-2024 07:38:37 UTC] objectcache.warning: Failing over to in-memory object cache
+[05-Jun-2024 07:38:51 UTC] objectcache.critical: Failed to initialize object cache: PhpRedis was not compiled with Zstandard compression support, see For more information about enabling compressions see: https://objectcache.pro/docs/data-encoding/
+[05-Jun-2024 07:38:51 UTC] objectcache.warning: Failing over to in-memory object cache
+[05-Jun-2024 07:40:48 UTC] objectcache.critical: Failed to initialize object cache: PhpRedis was not compiled with Zstandard compression support, see For more information about enabling compressions see: https://objectcache.pro/docs/data-encoding/
+[05-Jun-2024 07:40:48 UTC] objectcache.warning: Failing over to in-memory object cache
+[05-Jun-2024 07:41:42 UTC] objectcache.critical: Failed to initialize object cache: PhpRedis was not compiled with Zstandard compression support, see For more information about enabling compressions see: https://objectcache.pro/docs/data-encoding/
+[05-Jun-2024 07:41:42 UTC] objectcache.warning: Failing over to in-memory object cache
+[05-Jun-2024 07:42:47 UTC] objectcache.critical: Failed to initialize object cache: PhpRedis was not compiled with Zstandard compression support, see For more information about enabling compressions see: https://objectcache.pro/docs/data-encoding/
+[05-Jun-2024 07:42:47 UTC] objectcache.warning: Failing over to in-memory object cache
+[05-Jun-2024 07:42:48 UTC] objectcache.critical: Failed to initialize object cache: PhpRedis was not compiled with Zstandard compression support, see For more information about enabling compressions see: https://objectcache.pro/docs/data-encoding/
+[05-Jun-2024 07:42:48 UTC] objectcache.warning: Failing over to in-memory object cache
+[05-Jun-2024 07:42:49 UTC] objectcache.critical: Failed to initialize object cache: PhpRedis was not compiled with Zstandard compression support, see For more information about enabling compressions see: https://objectcache.pro/docs/data-encoding/
+[05-Jun-2024 07:42:49 UTC] objectcache.warning: Failing over to in-memory object cache
+[05-Jun-2024 07:42:50 UTC] objectcache.critical: Failed to initialize object cache: PhpRedis was not compiled with Zstandard compression support, see For more information about enabling compressions see: https://objectcache.pro/docs/data-encoding/
+[05-Jun-2024 07:42:50 UTC] objectcache.warning: Failing over to in-memory object cache
+[05-Jun-2024 07:42:51 UTC] objectcache.critical: Failed to initialize object cache: PhpRedis was not compiled with Zstandard compression support, see For more information about enabling compressions see: https://objectcache.pro/docs/data-encoding/
+[05-Jun-2024 07:42:51 UTC] objectcache.warning: Failing over to in-memory object cache
+[05-Jun-2024 07:42:52 UTC] objectcache.critical: Failed to initialize object cache: PhpRedis was not compiled with Zstandard compression support, see For more information about enabling compressions see: https://objectcache.pro/docs/data-encoding/
+[05-Jun-2024 07:42:52 UTC] objectcache.warning: Failing over to in-memory object cache
+[05-Jun-2024 07:42:53 UTC] objectcache.critical: Failed to initialize object cache: PhpRedis was not compiled with Zstandard compression support, see For more information about enabling compressions see: https://objectcache.pro/docs/data-encoding/
+[05-Jun-2024 07:42:53 UTC] objectcache.warning: Failing over to in-memory object cache
+[05-Jun-2024 07:42:55 UTC] objectcache.critical: Failed to initialize object cache: PhpRedis was not compiled with Zstandard compression support, see For more information about enabling compressions see: https://objectcache.pro/docs/data-encoding/
+[05-Jun-2024 07:42:55 UTC] objectcache.warning: Failing over to in-memory object cache
+[05-Jun-2024 07:42:56 UTC] objectcache.critical: Failed to initialize object cache: PhpRedis was not compiled with Zstandard compression support, see For more information about enabling compressions see: https://objectcache.pro/docs/data-encoding/
+[05-Jun-2024 07:42:56 UTC] objectcache.warning: Failing over to in-memory object cache
+[05-Jun-2024 07:42:57 UTC] objectcache.critical: Failed to initialize object cache: PhpRedis was not compiled with Zstandard compression support, see For more information about enabling compressions see: https://objectcache.pro/docs/data-encoding/
+[05-Jun-2024 07:42:57 UTC] objectcache.warning: Failing over to in-memory object cache
+[05-Jun-2024 07:42:58 UTC] objectcache.critical: Failed to initialize object cache: PhpRedis was not compiled with Zstandard compression support, see For more information about enabling compressions see: https://objectcache.pro/docs/data-encoding/
+[05-Jun-2024 07:42:58 UTC] objectcache.warning: Failing over to in-memory object cache
+[05-Jun-2024 07:42:59 UTC] objectcache.critical: Failed to initialize object cache: PhpRedis was not compiled with Zstandard compression support, see For more information about enabling compressions see: https://objectcache.pro/docs/data-encoding/
+[05-Jun-2024 07:42:59 UTC] objectcache.warning: Failing over to in-memory object cache
+[05-Jun-2024 07:43:00 UTC] objectcache.critical: Failed to initialize object cache: PhpRedis was not compiled with Zstandard compression support, see For more information about enabling compressions see: https://objectcache.pro/docs/data-encoding/
+[05-Jun-2024 07:43:00 UTC] objectcache.warning: Failing over to in-memory object cache
+[05-Jun-2024 07:43:01 UTC] objectcache.critical: Failed to initialize object cache: PhpRedis was not compiled with Zstandard compression support, see For more information about enabling compressions see: https://objectcache.pro/docs/data-encoding/
+[05-Jun-2024 07:43:01 UTC] objectcache.warning: Failing over to in-memory object cache
+[05-Jun-2024 07:43:02 UTC] objectcache.critical: Failed to initialize object cache: PhpRedis was not compiled with Zstandard compression support, see For more information about enabling compressions see: https://objectcache.pro/docs/data-encoding/
+[05-Jun-2024 07:43:02 UTC] objectcache.warning: Failing over to in-memory object cache
+[05-Jun-2024 07:43:03 UTC] objectcache.critical: Failed to initialize object cache: PhpRedis was not compiled with Zstandard compression support, see For more information about enabling compressions see: https://objectcache.pro/docs/data-encoding/
+[05-Jun-2024 07:43:03 UTC] objectcache.warning: Failing over to in-memory object cache
+[06-Jun-2024 11:23:43 UTC] PHP Notice:  Function wp_enqueue_script was called incorrectly. Scripts and styles should not be registered or enqueued until the wp_enqueue_scripts, admin_enqueue_scripts, or login_enqueue_scripts hooks. This notice was triggered by the jquery handle. Please see <a>Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in C:\wamp64\www\wp-includes\functions.php on line 6031
+[06-Jun-2024 11:23:43 UTC] PHP Stack trace:
+[06-Jun-2024 11:23:43 UTC] PHP   1. {main}() C:\Users\gregory\AppData\Roaming\Composer\vendor\wp-cli\wp-cli\php\boot-fs.php:0
+[06-Jun-2024 11:23:43 UTC] PHP   2. require_once() C:\Users\gregory\AppData\Roaming\Composer\vendor\wp-cli\wp-cli\php\boot-fs.php:17
+[06-Jun-2024 11:23:43 UTC] PHP   3. WP_CLI\bootstrap() C:\Users\gregory\AppData\Roaming\Composer\vendor\wp-cli\wp-cli\php\wp-cli.php:32
+[06-Jun-2024 11:23:43 UTC] PHP   4. WP_CLI\Bootstrap\LaunchRunner->process($state = class WP_CLI\Bootstrap\BootstrapState { private $state = ['context_manager' => class WP_CLI\ContextManager { ... }] }) C:\Users\gregory\AppData\Roaming\Composer\vendor\wp-cli\wp-cli\php\bootstrap.php:83
+[06-Jun-2024 11:23:43 UTC] PHP   5. WP_CLI\Runner->start() C:\Users\gregory\AppData\Roaming\Composer\vendor\wp-cli\wp-cli\php\WP_CLI\Bootstrap\LaunchRunner.php:28
+[06-Jun-2024 11:23:43 UTC] PHP   6. WP_CLI\Runner->load_wordpress() C:\Users\gregory\AppData\Roaming\Composer\vendor\wp-cli\wp-cli\php\WP_CLI\Runner.php:1293
+[06-Jun-2024 11:23:43 UTC] PHP   7. require() C:\Users\gregory\AppData\Roaming\Composer\vendor\wp-cli\wp-cli\php\WP_CLI\Runner.php:1374
+[06-Jun-2024 11:23:43 UTC] PHP   8. include() C:\wamp64\www\wp-settings.php:611
+[06-Jun-2024 11:23:43 UTC] PHP   9. wp_enqueue_script($handle = 'jquery', $src = *uninitialized*, $deps = *uninitialized*, $ver = *uninitialized*, $args = *uninitialized*) C:\wamp64\www\wp-content\themes\variscite\functions.php:105
+[06-Jun-2024 11:23:43 UTC] PHP  10. _wp_scripts_maybe_doing_it_wrong($function_name = 'wp_enqueue_script', $handle = 'jquery') C:\wamp64\www\wp-includes\functions.wp-scripts.php:366
+[06-Jun-2024 11:23:43 UTC] PHP  11. _doing_it_wrong($function_name = 'wp_enqueue_script', $message = 'Scripts and styles should not be registered or enqueued until the <code>wp_enqueue_scripts</code>, <code>admin_enqueue_scripts</code>, or <code>login_enqueue_scripts</code> hooks. This notice was triggered by the <code>jquery</code> handle.', $version = '3.3.0') C:\wamp64\www\wp-includes\functions.wp-scripts.php:67
+[06-Jun-2024 11:23:43 UTC] PHP  12. wp_trigger_error($function_name = '', $message = 'Function wp_enqueue_script was called <strong>incorrectly</strong>. Scripts and styles should not be registered or enqueued until the <code>wp_enqueue_scripts</code>, <code>admin_enqueue_scripts</code>, or <code>login_enqueue_scripts</code> hooks. This notice was triggered by the <code>jquery</code> handle. Please see <a href="https://wordpress.org/documentation/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.)', $error_level = *uninitialized*) C:\wamp64\www\wp-includes\functions.php:5975
+[06-Jun-2024 11:23:43 UTC] PHP  13. trigger_error($message = 'Function wp_enqueue_script was called incorrectly. Scripts and styles should not be registered or enqueued until the wp_enqueue_scripts, admin_enqueue_scripts, or login_enqueue_scripts hooks. This notice was triggered by the jquery handle. Please see <a>Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.)', $error_level = 1024) C:\wamp64\www\wp-includes\functions.php:6031
+[06-Jun-2024 11:23:43 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 131072 bytes) in C:\wamp64\www\wp-content\plugins\elementor\includes\elements\section.php on line 1058
+[06-Jun-2024 11:23:43 UTC] PHP Stack trace:
+[06-Jun-2024 11:23:43 UTC] PHP   1. {main}() C:\Users\gregory\AppData\Roaming\Composer\vendor\wp-cli\wp-cli\php\boot-fs.php:0
+[06-Jun-2024 11:23:43 UTC] PHP   2. require_once() C:\Users\gregory\AppData\Roaming\Composer\vendor\wp-cli\wp-cli\php\boot-fs.php:17
+[06-Jun-2024 11:23:43 UTC] PHP   3. WP_CLI\bootstrap() C:\Users\gregory\AppData\Roaming\Composer\vendor\wp-cli\wp-cli\php\wp-cli.php:32
+[06-Jun-2024 11:23:43 UTC] PHP   4. WP_CLI\Bootstrap\LaunchRunner->process($state = class WP_CLI\Bootstrap\BootstrapState { private $state = ['context_manager' => class WP_CLI\ContextManager { ... }] }) C:\Users\gregory\AppData\Roaming\Composer\vendor\wp-cli\wp-cli\php\bootstrap.php:83
+[06-Jun-2024 11:23:43 UTC] PHP   5. WP_CLI\Runner->start() C:\Users\gregory\AppData\Roaming\Composer\vendor\wp-cli\wp-cli\php\WP_CLI\Bootstrap\LaunchRunner.php:28
+[06-Jun-2024 11:23:43 UTC] PHP   6. WP_CLI\Runner->load_wordpress() C:\Users\gregory\AppData\Roaming\Composer\vendor\wp-cli\wp-cli\php\WP_CLI\Runner.php:1293
+[06-Jun-2024 11:23:43 UTC] PHP   7. require() C:\Users\gregory\AppData\Roaming\Composer\vendor\wp-cli\wp-cli\php\WP_CLI\Runner.php:1374
+[06-Jun-2024 11:23:43 UTC] PHP   8. do_action($hook_name = 'init') C:\wamp64\www\wp-settings.php:643
+[06-Jun-2024 11:23:43 UTC] PHP   9. WP_Hook->do_action($args = [0 => '']) C:\wamp64\www\wp-includes\plugin.php:517
+[06-Jun-2024 11:23:43 UTC] PHP  10. WP_Hook->apply_filters($value = '', $args = [0 => '']) C:\wamp64\www\wp-includes\class-wp-hook.php:348
+[06-Jun-2024 11:23:43 UTC] PHP  11. Elementor\Plugin->init('') C:\wamp64\www\wp-includes\class-wp-hook.php:324
+[06-Jun-2024 11:23:43 UTC] PHP  12. Elementor\Plugin->init_components() C:\wamp64\www\wp-content\plugins\elementor\includes\plugin.php:647
+[06-Jun-2024 11:23:43 UTC] PHP  13. Elementor\Elements_Manager->__construct() C:\wamp64\www\wp-content\plugins\elementor\includes\plugin.php:717
+[06-Jun-2024 11:23:43 UTC] PHP  14. Elementor\Elements_Manager->require_files() C:\wamp64\www\wp-content\plugins\elementor\includes\managers\elements.php:52
+[06-Jun-2024 11:23:43 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 40960 bytes) in C:\wamp64\www\wp-includes\plugin.php on line 177
+[06-Jun-2024 11:23:43 UTC] PHP Stack trace:
+[06-Jun-2024 11:23:43 UTC] PHP   1. WP_Fatal_Error_Handler->handle() C:\wamp64\www\wp-includes\class-wp-fatal-error-handler.php:0
+[06-Jun-2024 11:23:43 UTC] PHP   2. WP_Fatal_Error_Handler->display_error_template($error = ['type' => 1, 'message' => 'Allowed memory size of 134217728 bytes exhausted (tried to allocate 131072 bytes)', 'file' => 'C:\\wamp64\\www\\wp-content\\plugins\\elementor\\includes\\elements\\section.php', 'line' => 1058], $handled = class WP_Error { public $errors = ['non_protected_endpoint' => [...]]; public $error_data = []; protected $additional_data = [] }) C:\wamp64\www\wp-includes\class-wp-fatal-error-handler.php:58
+[06-Jun-2024 11:23:43 UTC] PHP   3. WP_Fatal_Error_Handler->display_default_error_template($error = ['type' => 1, 'message' => 'Allowed memory size of 134217728 bytes exhausted (tried to allocate 131072 bytes)', 'file' => 'C:\\wamp64\\www\\wp-content\\plugins\\elementor\\includes\\elements\\section.php', 'line' => 1058], $handled = class WP_Error { public $errors = ['non_protected_endpoint' => [...]]; public $error_data = []; protected $additional_data = [] }) C:\wamp64\www\wp-includes\class-wp-fatal-error-handler.php:154
+[06-Jun-2024 11:23:43 UTC] PHP   4. apply_filters($hook_name = 'wp_php_error_message', $value = '<p>There has been a critical error on this website.</p><p><a href="https://wordpress.org/documentation/article/faq-troubleshooting/">Learn more about troubleshooting WordPress.</a></p>', ...$args = variadic(['type' => 1, 'message' => 'Allowed memory size of 134217728 bytes exhausted (tried to allocate 131072 bytes)', 'file' => 'C:\\wamp64\\www\\wp-content\\plugins\\elementor\\includes\\elements\\section.php', 'line' => 1058])) C:\wamp64\www\wp-includes\class-wp-fatal-error-handler.php:218
